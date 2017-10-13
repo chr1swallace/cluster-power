@@ -1,4 +1,5 @@
 devtools::install_github("chr1swallace/TibsPower")
+devtools::install_github("chr1swallace/random-functions")
 library(TibsPower)
                                         #devtools::load_all("~/RP/TibsPower")
 v <- readRDS("v.rds")
